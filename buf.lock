@@ -8,5 +8,5 @@ deps:
   - remote: buf.build
     owner: opentelemetry
     repository: opentelemetry
-    commit: 038316eb65414db8bb0cd88c47a4ee0f
+    commit: 720656ce947a4351833b575b96a92f38
 
